@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(41,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(61,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(95,59): warning C4305: =: усечение из "double" в "float"
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(164,34): warning C4305: =: усечение из "double" в "float"
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(176,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(176,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(187,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikul\source\repos\SFML_Tutorial\main.cpp(187,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML_Tutorial.vcxproj -> C:\Users\nikul\source\repos\SFML_Tutorial\Debug\SFML_Tutorial.exe

@@ -1,0 +1,2 @@
+C:\Users\nikul\source\repos\SFML_Tutorial\Debug\SFML_Tutorial.exe
+C:\Users\nikul\source\repos\SFML_Tutorial\Debug\SFML_Tutorial.pdb
