@@ -40,13 +40,13 @@ int main()
 {
 	srand(time(0));
 
-	RenderWindow window(VideoMode(320, 480), "The Game!");
+	RenderWindow window(VideoMode(320, 480), "Tetris");
 
 	// Создание и загрузка текстуры
 	Texture texture, texture_background, texture_frame;
-	texture.loadFromFile("C:\\Users\\nikul\\source\\repos\\SFML_Tutorial\\Imag\\tiles.png");
-	texture_background.loadFromFile("C:\\Users\\nikul\\source\\repos\\SFML_Tutorial\\Imag\\background.png");
-	texture_frame.loadFromFile("C:\\Users\\nikul\\source\\repos\\SFML_Tutorial\\Imag\\frame.png");
+	texture.loadFromFile("Imag\\tiles.png");
+	texture_background.loadFromFile("Imag\\background.png");
+	texture_frame.loadFromFile("Imag\\frame.png");
 
 	// Создание спрайта
 	Sprite sprite(texture), sprite_background(texture_background), sprite_frame(texture_frame);

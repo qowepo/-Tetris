@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFML_Tutorial", "SFML_Tutorial.vcxproj", "{5C64252A-1DF1-4AF0-85B3-0175AC9AB6A0}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tetris Installer", "Tetris Installer\Tetris Installer.vdproj", "{377A4657-CC74-4A8A-ADB1-84AF0243004A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{5C64252A-1DF1-4AF0-85B3-0175AC9AB6A0}.Release|x64.Build.0 = Release|x64
 		{5C64252A-1DF1-4AF0-85B3-0175AC9AB6A0}.Release|x86.ActiveCfg = Release|Win32
 		{5C64252A-1DF1-4AF0-85B3-0175AC9AB6A0}.Release|x86.Build.0 = Release|Win32
+		{377A4657-CC74-4A8A-ADB1-84AF0243004A}.Debug|x64.ActiveCfg = Debug
+		{377A4657-CC74-4A8A-ADB1-84AF0243004A}.Debug|x86.ActiveCfg = Debug
+		{377A4657-CC74-4A8A-ADB1-84AF0243004A}.Release|x64.ActiveCfg = Release
+		{377A4657-CC74-4A8A-ADB1-84AF0243004A}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
